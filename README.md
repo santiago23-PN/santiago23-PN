@@ -1,6 +1,5 @@
 ![Banner Santiago](https://raw.githubusercontent.com/santiago23-PN/santiago23-PN/main/imagen2.png)
 
-<img alt="Hand Wave" src="https://raw.githubusercontent.com/santiago23-PN/santiago23-PN/main/imagen2.png" width='40' align="left"/><h2>¡Hey! Soy Santiago Suárez</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
@@ -8,9 +7,8 @@
 🎓 &nbsp;Actualmente explorando el ecosistema de **Laravel** y peleándome con los estados en **React**.\
 🌱 &nbsp;Mi stack principal incluye **PHP, Vue.js y HTML**, pero siempre estoy saltando a lo nuevo que brille.\
 ✍️ &nbsp;Me considero un **Videocodi Expert**: si no estoy programando, probablemente me encuentres analizando frames en algún videojuego.\
-💬 &nbsp;Hablemos de código, de bugs que te hicieron llorar o de por qué el diseño original de Sonic era tan feo.\
-✉️ &nbsp;Puedes escribirme a: **santiagosuarez@ejemplo.com** (¡Cambia esto por el tuyo!)\
-📄 &nbsp;Aunque no sé usar Laravel al 100%, aquí puedes ver mis intentos: [Mi Portafolio](https://github.com/santiago23-PN)
+💬 &nbsp;Hablemos de código, de bugs que te hicieron llorar o de por qué los femboys son la mejor opcion.\
+✉️ &nbsp;Puedes escribirme a: **santiagosuarez03925@gmail.com**\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="220"/>
 
